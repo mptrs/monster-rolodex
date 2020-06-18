@@ -3,6 +3,7 @@
 	"version": "1.0.0",
 	"description": "",
 	"keywords": [],
+	"homepage": "https://mptrs.github.io/monster-rolodex",
 	"dependencies": {
 		"react": "^16.13.1",
 		"react-dom": "^16.13.1",
